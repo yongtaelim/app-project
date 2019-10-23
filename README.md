@@ -3,7 +3,8 @@ App 생성 및 로직....
 
 ## future
 - React Native를 통해 App 개발..
-- ReactJS 학습
+- ReactJS 학습 - 누구든지 하는 리액트 youtube참조 ( #10 life cycle... )
+
 
 ## RactJS
 ### 도구
@@ -28,3 +29,7 @@ App 생성 및 로직....
 [![Edit great-engelbart-qscib](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/great-engelbart-qscib?fontsize=14)
 4. 조건부 렌더링 (삼학 연산자)
 [![Edit great-engelbart-qscib](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/great-engelbart-qscib?fontsize=14)
+5. props ( 부모가 자식에게 넘겨주는 값 )
+[![Edit objective-feather-if8ps](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/objective-feather-if8ps?fontsize=14)
+6. state ( 자식이 자기 자신이 값을 들고 있어서 변경이 가능하다. )
+[![Edit objective-feather-if8ps](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/objective-feather-if8ps?fontsize=14)
