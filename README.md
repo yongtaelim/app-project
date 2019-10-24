@@ -33,3 +33,8 @@ App 생성 및 로직....
 [![Edit objective-feather-if8ps](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/objective-feather-if8ps?fontsize=14)
 6. state ( 자식이 자기 자신이 값을 들고 있어서 변경이 가능하다. )
 [![Edit still-forest-hd1fd](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/still-forest-hd1fd?fontsize=14)
+7. lifecycle
+  - mounting : component brower에 나타날때 
+  - Updaing : component가 바뀔때
+  - Unmounting : component가 없어질때
+  [![Edit React Basics](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-basics-h9vci?fontsize=14)
