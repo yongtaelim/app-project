@@ -32,4 +32,4 @@ App 생성 및 로직....
 5. props ( 부모가 자식에게 넘겨주는 값 )
 [![Edit objective-feather-if8ps](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/objective-feather-if8ps?fontsize=14)
 6. state ( 자식이 자기 자신이 값을 들고 있어서 변경이 가능하다. )
-[![Edit objective-feather-if8ps](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/objective-feather-if8ps?fontsize=14)
+[![Edit still-forest-hd1fd](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/still-forest-hd1fd?fontsize=14)
