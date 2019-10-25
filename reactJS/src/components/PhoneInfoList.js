@@ -8,6 +8,11 @@ class PhoneInfoList extends Component {
         onUpdate: () => console.warn('onUpdate not defined'),
     }
 
+    //resource 아낄려고..
+    shouldComponentUpdate(nextProps, nextState) {
+        return nextProps.data !== this.props.data;
+    }
+    
     render() {
         //data 배열을 가져와서 map을 통해 JSX로 변환한다.
         //key는 반드시 필요!
