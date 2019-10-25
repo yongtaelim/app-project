@@ -2,8 +2,14 @@
 App 생성 및 로직....
 
 ## future
-- React Native를 통해 App 개발..
-- ReactJS 학습 - 누구든지 하는 리액트 youtube참조 ( #10 life cycle... )
+### React Native를 통해 App 개발..
+### ReactJS 학습 - 누구든지 하는 리액트 youtube참조
+#### styling
+#### 상태관리 (Redux, Mobx)
+#### 불변성(Immutable.js, Immer)
+#### 라우팅(react-router, Next.js)
+#### Testing (Jest,Enzyme)
+#### 타입 시스템 (TypeScript, Flow)
 
 
 ## RactJS
