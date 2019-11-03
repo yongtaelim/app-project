@@ -45,7 +45,23 @@ App 생성 및 로직....
   - Unmounting : component가 없어질때
   [![Edit React Basics](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-basics-h9vci?fontsize=14)
 
-
+### method 기능 
+#### constructor(props)
+- component가 생성될 때 호출
+#### componentDidMount()
+- 외부 라이브러리 연동
+- 컴포넌트에서 필요한 데이터 요청
+- DOM관련 작업
+#### componentDidCatch(error, info)
+- error가 난 부모 component에 구현
+#### static getDerivedStateFromProps(nextProps, prevState)
+- component가 변경될 떄 호출
+#### componentDidUpdate(prevProps, prevState)
+- component가 실제로 변경된 후 호출
+#### componentWillUnmount()
+- component가 제거된 후 호출
+#### shouldComponentUpdate(nextProps, nextState)
+- 성능을 위해 업데이트를 막아주는 메소드
 
 
 
